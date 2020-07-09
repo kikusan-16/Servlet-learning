@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"sample.test","c":"SampleTest","l":"SampleTest()","url":"%3Cinit%3E()"},{"p":"sample.test","c":"SampleTest","l":"testAppendMr()"}]
